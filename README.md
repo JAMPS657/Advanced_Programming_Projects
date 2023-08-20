@@ -1,4 +1,11 @@
 # Andrew J. Otis: Advanced Programming Projects
+
+## Index
+This repository holds projects that I'm particularly proud of during my time at the University of Denver. Some projects demonstrate the application of a new skill and others demonstrate the application of the full Data Science workflow.
+
+Repo 1
+Repo 2
+
 ## About Me
 
 I'm seeking a professional environment where a well-thought strategy sets the foundation for a well-done job. A place where mutual respect, comradery, effective communication, and hard work are venues for expression. 
