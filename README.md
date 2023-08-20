@@ -1,1 +1,1 @@
-# Advanced_Programming_Projects
+# Andrew J. Otis: Advanced Programming Projects
