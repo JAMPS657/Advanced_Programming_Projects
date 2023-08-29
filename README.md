@@ -3,8 +3,7 @@
 ## Index
 This repository holds projects that I'm particularly proud of during my time at the University of Denver. Some projects demonstrate the application of a new skill and others demonstrate the application of the full Data Science workflow.
 
-Repo 1
-Repo 2
+[Programming Projects](https://github.com/JAMPS657/Advanced_Programming_Projects/tree/main/Projects)
 
 ## About Me
 
