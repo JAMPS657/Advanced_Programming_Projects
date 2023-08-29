@@ -1,7 +1,8 @@
 # Index
 Home page [here](https://github.com/JAMPS657/Advanced_Programming_Projects)
 
-Project Selection
+### Project Selection
+
 1.Analysis of Rocket League Gameplay Metrics 
 - [Findings]
   ()
