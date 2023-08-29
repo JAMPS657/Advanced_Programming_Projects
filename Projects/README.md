@@ -1,5 +1,5 @@
 # Index
-Home page [here](https://github.com/JAMPS657/Advanced_Programming_Projects)
+Advanced Projects Home page [here](https://github.com/JAMPS657/Advanced_Programming_Projects)
 
 ### Project Selection
 
