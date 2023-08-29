@@ -9,7 +9,7 @@ Advanced Projects Home page [here](https://github.com/JAMPS657/Advanced_Programm
 
 2. Grid Processing for Parallel and Distributed Networks
 - [Findings]()
-- [Code]()
+- [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Grid%20Processing%20for%20Parallel%20and%20Distributed%20Networks/assignment1_notebook.ipynb)
 
 ## Contact Me
 **Email:** andrew.otis@du.edu
