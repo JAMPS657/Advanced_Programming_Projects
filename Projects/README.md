@@ -1,7 +1,9 @@
 # Index
 Advanced Projects Home page [here](https://github.com/JAMPS657/Advanced_Programming_Projects)
 
-Note that projects vary in length, and some may have code and findings separated.
+Important Note: Projects vary in length, complexity, and goals
+- some may have code and findings separated
+- some may use the technical report as the the findings, others using it as supplemental material
 
 ## Project Selection
 
