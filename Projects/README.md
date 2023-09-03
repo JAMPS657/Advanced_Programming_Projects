@@ -10,7 +10,7 @@ Advanced Projects Home page [here](https://github.com/JAMPS657/Advanced_Programm
 - [Findings](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Sports%20Science%20Goes%20Digital/Writeup_final_project_ds_tools_II.pdf)
 - [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Sports%20Science%20Goes%20Digital/Analysis%20of%20Rocket%20League%20Replay%20Metrics.ipynb)
 
-3. Sports Science Goes Digital 
+3. Grid Processing for Parallel and Distributed Systems
 - [Findings](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Sports%20Science%20Goes%20Digital/Writeup_final_project_ds_tools_II.pdf)
 - [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Sports%20Science%20Goes%20Digital/Analysis%20of%20Rocket%20League%20Replay%20Metrics.ipynb)
 ## Contact Me
