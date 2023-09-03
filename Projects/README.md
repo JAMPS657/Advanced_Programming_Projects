@@ -4,9 +4,11 @@ Advanced Projects Home page [here](https://github.com/JAMPS657/Advanced_Programm
 Note that projects vary in length, and some may have code and findings separated.
 
 ## Project Selection
+
 1. Wholesale Customer Segmentation 
-- [Findings](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Sports%20Science%20Goes%20Digital/Writeup_final_project_ds_tools_II.pdf)
-- [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Sports%20Science%20Goes%20Digital/Analysis%20of%20Rocket%20League%20Replay%20Metrics.ipynb)
+- [Presentaiton of Worflow and Findings](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Wholesale%20Customer%20Segmentation/DS_captsone_midterm_presentation(final).pdf)
+- [Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Wholesale%20Customer%20Segmentation/midterm_project_writeup(final).pdf)
+- [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Wholesale%20Customer%20Segmentation/wholesale_customer_segmentation(final).ipynb)
 
 2. Sports Science Goes Digital 
 - [Findings](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Sports%20Science%20Goes%20Digital/Writeup_final_project_ds_tools_II.pdf)
