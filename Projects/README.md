@@ -1,7 +1,7 @@
 # Index
 Advanced Projects Home page [here](https://github.com/JAMPS657/Advanced_Programming_Projects)
 
-Note that projects vary in length, and some may have code and findings separated
+Note that projects vary in length, and some may have code and findings separated.
 
 ## Project Selection
 1. Wholesale Customer Segmentation 
