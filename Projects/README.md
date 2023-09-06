@@ -10,12 +10,12 @@ Projects vary in length, complexity, and task being accomplished.
 ## Project Selection
 
 1. Geospatial Analysis of Radioactive Contamination Event 
-- [Presentaiton of Worflow and Findings](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Geospatial%20Analysis%20of%20Radioactive%20Contamination%20Event/final_project_presentation.pdf)
+- [Presentaiton Findings](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Geospatial%20Analysis%20of%20Radioactive%20Contamination%20Event/final_project_presentation.pdf)
 - [Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Geospatial%20Analysis%20of%20Radioactive%20Contamination%20Event/final_project_writeup.pdf)
 - [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Geospatial%20Analysis%20of%20Radioactive%20Contamination%20Event/final_project_code_(final).ipynb)
 
 2. Wholesale Customer Segmentation 
-- [Presentaiton of Worflow and Findings](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Wholesale%20Customer%20Segmentation/DS_captsone_midterm_presentation(final).pdf)
+- [Presentaiton of Findings](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Wholesale%20Customer%20Segmentation/DS_captsone_midterm_presentation(final).pdf)
 - [Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Wholesale%20Customer%20Segmentation/midterm_project_writeup(final).pdf)
 - [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Wholesale%20Customer%20Segmentation/wholesale_customer_segmentation(final).ipynb)
 
