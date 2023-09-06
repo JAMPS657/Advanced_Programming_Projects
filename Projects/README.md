@@ -10,7 +10,7 @@ Projects vary in length, complexity, and task being accomplished.
 ## Project Selection
 
 1. Geospatial Analysis of Radioactive Contamination Event 
-- [Presentation Findings](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Geospatial%20Analysis%20of%20Radioactive%20Contamination%20Event/final_project_presentation.pdf)
+- [Presentation of Findings](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Geospatial%20Analysis%20of%20Radioactive%20Contamination%20Event/final_project_presentation.pdf)
 - [Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Geospatial%20Analysis%20of%20Radioactive%20Contamination%20Event/final_project_writeup.pdf)
 - [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Geospatial%20Analysis%20of%20Radioactive%20Contamination%20Event/final_project_code_(final).ipynb)
 
