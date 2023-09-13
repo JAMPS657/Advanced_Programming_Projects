@@ -26,7 +26,7 @@ i. [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Pr
 4. Database Management
 
    a. Creating Database and Writing Custom Queries
-- [Findings and Code]()
+-- [Findings and Code]()
 
 5. Classifying Mushroom Edibility and Data Streaming 
 - [Findings and Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Mushroom%20Edibility%20and%20Data%20Streaming/Assignment2_writeup_rd.pdf)
