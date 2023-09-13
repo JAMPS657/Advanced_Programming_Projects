@@ -25,11 +25,11 @@ Projects vary in length, complexity, and task, and methods used
 
 4. Machine Learning Oriented
 
-a. Classifying Mushroom Edibility and Data Streaming
+   a. Classifying Mushroom Edibility and Data Streaming
 
-   i. [Findings and Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Mushroom%20Edibility%20and%20Data%20Streaming/Assignment2_writeup_rd.pdf)
+      i. [Findings and Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Mushroom%20Edibility%20and%20Data%20Streaming/Assignment2_writeup_rd.pdf)
 
-   ii. [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Mushroom%20Edibility%20and%20Data%20Streaming/Assignment2_notebook_final.ipynb)
+      ii. [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Mushroom%20Edibility%20and%20Data%20Streaming/Assignment2_notebook_final.ipynb)
 
 5. Database Management Oriented
 
