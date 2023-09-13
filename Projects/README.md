@@ -33,7 +33,7 @@ Projects vary in length, complexity, and task, and methods used
 
 5. Database Management Oriented
 
-    a. Advanced Database Modeling
+    a. Database Modeling and Implementation
 
       i. [Findings & Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Advanced%20Data%20Modeling/vgWriteup.pdf)
 
