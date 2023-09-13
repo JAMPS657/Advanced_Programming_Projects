@@ -25,7 +25,7 @@ Projects vary in length, complexity, and task being accomplished.
 
 4. Database Management
 
-   a. Creating Database and Writing Custom Queries [Findings and Code]()
+   a. Creating Database and Writing Custom Queries - [Findings and Code]()
 
 5. Classifying Mushroom Edibility and Data Streaming 
 - [Findings and Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Mushroom%20Edibility%20and%20Data%20Streaming/Assignment2_writeup_rd.pdf)
@@ -33,7 +33,7 @@ Projects vary in length, complexity, and task being accomplished.
 
 6. Parallel and Distributed Programming
 
-   a. Grid Processing [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Grid%20Processing%20for%20Parallel%20and%20Distributed%20Networks/Grid_Processing_Geographic_Data_with_Apache_Spark_RDDs.ipynb)
+   a. Grid Processing - [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Grid%20Processing%20for%20Parallel%20and%20Distributed%20Networks/Grid_Processing_Geographic_Data_with_Apache_Spark_RDDs.ipynb)
 
 ## Contact Me
 **Email:** andrew.otis@du.edu
