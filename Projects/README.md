@@ -21,12 +21,13 @@ Projects vary in length, complexity, and task being accomplished.
 
 3. Sports Science Goes Digital 
 - [Findings and Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Sports%20Science%20Goes%20Digital/Writeup_final_project_ds_tools_II.pdf)
-i. [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Sports%20Science%20Goes%20Digital/Analysis%20of%20Rocket%20League%20Replay%20Metrics.ipynb)
+- [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Sports%20Science%20Goes%20Digital/Analysis%20of%20Rocket%20League%20Replay%20Metrics.ipynb)
 
 4. Database Management
 
    a. Creating Database and Writing Custom Queries
--- [Findings and Code]()
+
+ i. [Findings and Code]()
 
 5. Classifying Mushroom Edibility and Data Streaming 
 - [Findings and Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Mushroom%20Edibility%20and%20Data%20Streaming/Assignment2_writeup_rd.pdf)
