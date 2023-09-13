@@ -33,7 +33,7 @@ a. Classifying Mushroom Edibility and Data Streaming
 
 5. Database Management Oriented
 
-   a. Writing Custom Action Queries - [Findings and Code]()
+   a. Writing Custom Action Queries - [Findings and Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/Database_action_quering.ipynb)
 
 6. Parallel and Distributed Programming Oriented
 
