@@ -24,3 +24,5 @@ Some personal interests of mine
 **Email:** andrew.otis@du.edu
 
 **LinkedIn:** [Andrew J. Otis](https://www.linkedin.com/in/andrew-james-otis/)
+
+**Phone:** 717-552-3329
