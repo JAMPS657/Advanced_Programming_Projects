@@ -33,11 +33,22 @@ Projects vary in length, complexity, and task, and methods used
 
 5. Database Management Oriented
 
-   a. Writing Custom Action Queries
+ a. Advanced Database Modeling
 
-      i. [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/Database_action_quering.ipynb)
+   i. [Findings & Technical Report]()
 
-      ii. [SQL Connector Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/pymongo_ex_update_delete.py)
+   ii. [SQL Code for Data Calling]()
+
+   iii. [SQL Code for Data Migration]()
+
+   iii. [SQL Code for Stored Procedures]()
+
+
+b. Writing Custom Action Queries
+
+   i. [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/Database_action_quering.ipynb)
+
+   ii. [SQL Connector Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/pymongo_ex_update_delete.py)
 
 7. Parallel and Distributed Programming Oriented
 
