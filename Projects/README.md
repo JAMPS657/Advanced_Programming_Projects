@@ -33,9 +33,13 @@ Projects vary in length, complexity, and task, and methods used
 
 5. Database Management Oriented
 
-   a. Writing Custom Action Queries - [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/Database_action_quering.ipynb)
+   a. Writing Custom Action Queries
 
-6. Parallel and Distributed Programming Oriented
+      i. [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/Database_action_quering.ipynb)
+
+      ii. [SQL Connector Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/pymongo_ex_update_delete.py)
+
+7. Parallel and Distributed Programming Oriented
 
    a. Grid Processing - [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Grid%20Processing%20for%20Parallel%20and%20Distributed%20Networks/Grid_Processing_Geographic_Data_with_Apache_Spark_RDDs.ipynb)
 
