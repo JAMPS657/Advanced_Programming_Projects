@@ -7,3 +7,5 @@ Project Selection [here](https://github.com/JAMPS657/Advanced_Programming_Projec
 **Email:** andrew.otis@du.edu
 
 **LinkedIn:** [Andrew J. Otis](https://www.linkedin.com/in/andrew-james-otis/)
+
+**Phone:** 717-552-3329
