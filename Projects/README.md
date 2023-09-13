@@ -31,13 +31,13 @@ a. Classifying Mushroom Edibility and Data Streaming
 
    ii. [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Mushroom%20Edibility%20and%20Data%20Streaming/Assignment2_notebook_final.ipynb)
 
-6. Database Management
+5. Database Management
 
    a. Creating Database and Writing Custom Queries - [Findings and Code]()
 
 
 
-7. Parallel and Distributed Programming
+6. Parallel and Distributed Programming
 
    a. Grid Processing - [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Grid%20Processing%20for%20Parallel%20and%20Distributed%20Networks/Grid_Processing_Geographic_Data_with_Apache_Spark_RDDs.ipynb)
 
