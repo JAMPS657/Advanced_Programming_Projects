@@ -33,7 +33,7 @@ a. Classifying Mushroom Edibility and Data Streaming
 
 5. Database Management Oriented
 
-   a. Creating Database and Writing Custom Queries - [Findings and Code]()
+   a. Writing Custom Action Queries - [Findings and Code]()
 
 6. Parallel and Distributed Programming Oriented
 
@@ -43,3 +43,5 @@ a. Classifying Mushroom Edibility and Data Streaming
 **Email:** andrew.otis@du.edu
 
 **LinkedIn:** [Andrew J. Otis](https://www.linkedin.com/in/andrew-james-otis/)
+
+**Phone:** 717-552-3329
