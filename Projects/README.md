@@ -48,7 +48,7 @@ b. Writing Custom Action Queries
 
    i. [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/Database_action_quering.ipynb)
 
-   ii. [SQL Connector Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/pymongo_ex_update_delete.py)
+   ii. [Pymongo Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/pymongo_ex_update_delete.py)
 
 7. Parallel and Distributed Programming Oriented
 
