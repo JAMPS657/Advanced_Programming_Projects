@@ -4,7 +4,7 @@ Advanced Projects Home page [here](https://github.com/JAMPS657/Advanced_Programm
 ### General Information
 Projects vary in length, complexity, and task being accomplished.
 - Some may have code and findings separated
-- Some may use the technical report as the the findings, others using it as supplemental material
+- Some may use the technical report as the findings, others using it as supplemental material
 - Some may have a supplemental powerpoint presentation, others won't
 
 ## Project Selection
