@@ -34,6 +34,7 @@ Projects vary in length, complexity, and task being accomplished.
 - [Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Mushroom%20Edibility%20and%20Data%20Streaming/Assignment2_notebook_final.ipynb)
 
 6. Parallel and Distributed Programming
+
    a. Grid Processing 
 
 i. [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Grid%20Processing%20for%20Parallel%20and%20Distributed%20Networks/Grid_Processing_Geographic_Data_with_Apache_Spark_RDDs.ipynb)
