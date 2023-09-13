@@ -35,13 +35,15 @@ Projects vary in length, complexity, and task, and methods used
 
     a. Advanced Database Modeling
 
-      i. [Findings & Technical Report]()
+      i. [Findings & Technical Report](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Advanced%20Data%20Modeling/vgWriteup.pdf)
 
-      ii. [SQL Code for Data Calling]()
+      i. [SQL Connector Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Advanced%20Data%20Modeling/loadVG.py)
 
-      iii. [SQL Code for Data Migration]()
+      ii. [SQL Code for Data Calling](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Advanced%20Data%20Modeling/vgCalls.sql)
 
-      iii. [SQL Code for Stored Procedures]()
+      iii. [SQL Code for Data Migration](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Advanced%20Data%20Modeling/vgMigration.sql)
+
+      iii. [SQL Code for Stored Procedures](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Advanced%20Data%20Modeling/vgStoredProcedures.sql)
 
 
    b. Writing Custom Action Queries
@@ -50,7 +52,7 @@ Projects vary in length, complexity, and task, and methods used
 
       ii. [Pymongo Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/pymongo_ex_update_delete.py)
 
-6. Parallel and Distributed Programming Oriented
+7. Parallel and Distributed Programming Oriented
 
    a. Grid Processing - [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Grid%20Processing%20for%20Parallel%20and%20Distributed%20Networks/Grid_Processing_Geographic_Data_with_Apache_Spark_RDDs.ipynb)
 
