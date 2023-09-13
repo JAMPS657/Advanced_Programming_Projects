@@ -33,7 +33,7 @@ Projects vary in length, complexity, and task, and methods used
 
 5. Database Management Oriented
 
-   a. Writing Custom Action Queries - [Findings and Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/Database_action_quering.ipynb)
+   a. Writing Custom Action Queries - [Findings & Code](https://github.com/JAMPS657/Advanced_Programming_Projects/blob/main/Projects/Writing%20Action%20Queries/Database_action_quering.ipynb)
 
 6. Parallel and Distributed Programming Oriented
 
